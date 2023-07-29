@@ -1,0 +1,16 @@
+# Misc
+.DS_Store
+desktop.ini
+
+.idea
+.vscode
+
+*.pem
+
+# Dependencies
+__pycache__/
+
+.pytest_cache/
+
+.venv/
+.env
